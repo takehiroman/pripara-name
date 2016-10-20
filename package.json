@@ -1,0 +1,25 @@
+{
+  "name": "zakimoto",
+  "version": "1.0.0",
+  "description": "get character names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takehiroman/pripara-name.git"
+  },
+  "keywords": [
+    "pripara"
+  ],
+  "author": "takehiro tsuzaki <takehiro@fake.com> (http://zakimoto.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takehiroman/pripara-name/issues"
+  },
+  "homepage": "https://github.com/takehiroman/pripara-name#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
