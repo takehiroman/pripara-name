@@ -1,3 +1,3 @@
 # pripara-name
 * プリパラのキャラ名のjson
-* npm作成の練習
+* 自作npm作成の練習
